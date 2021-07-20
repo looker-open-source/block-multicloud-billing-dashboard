@@ -8,7 +8,8 @@
   "constants": {
     "MULTICLOUD_DASHBOARD_CONNECTION": {
       "label": "Connection Name",
-      "value_constraint": "connection"
+      "value_constraint": "connection",
+      "description": "A BigQuery Standard SQL Connection"
     }
   },
   "models": [
