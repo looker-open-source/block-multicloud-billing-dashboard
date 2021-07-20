@@ -1,0 +1,20 @@
+{
+  "label": "Cloud Billing - Multicloud Dashboard",
+  "category_label": "Models",
+  "branding": {
+    "image_uri": "https://wwwstatic-a.lookercdn.com/blocks/logos/aws.png",
+    "tagline": "TODO"
+  },
+  "constants": {
+    "MULTICLOUD_DASHBOARD_CONNECTION": {
+      "label": "Connection Name",
+      "value_constraint": "connection"
+    }
+  },
+  "models": [
+    {
+      "name": "marketplace_multicloud_billing",
+      "connection_constant": "MULTICLOUD_DASHBOARD_CONNECTION"
+    }
+  ]
+}
