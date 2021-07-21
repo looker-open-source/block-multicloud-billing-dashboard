@@ -2,7 +2,7 @@
   "label": "Cloud Cost Management",
   "category_label": "Models",
   "branding": {
-    "image_uri": "https://wwwstatic-a.lookercdn.com/blocks/logos/aws.png",
+    "image_uri": "https://marketplace-api.looker.com/block-icons/multicloud_billing.png",
     "tagline": "A consolidated reporting view of cloud spend across AWS, Azure and GCP."
   },
   "constants": {
