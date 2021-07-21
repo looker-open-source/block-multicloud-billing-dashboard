@@ -1,5 +1,5 @@
 - dashboard: multicloud_billing
-  title: 'Cloud Billing Summary'
+  title: 'Cloud Billing: Phase 1'
   layout: newspaper
   preferred_viewer: dashboards-next
   elements:
